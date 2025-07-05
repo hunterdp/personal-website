@@ -1,2 +1,2 @@
 # hunterdp.github.io
-Genaric Github pages Account
+Generic Github pages Account
